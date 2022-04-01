@@ -13,13 +13,12 @@
 
 - Computer science student.🧑‍🎓
 
-<br />
+</div>
 
-<p align="center">
+<<div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://open.spotify.com/user/22bk6yu73vlwpvpcovhv6io3a">
     <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
   </a>
-</p>
 
 
 <div align="center" style="display: flex; justify-content: space-between;">
