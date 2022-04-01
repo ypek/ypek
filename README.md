@@ -1,27 +1,45 @@
-### Olá! eu sou Daniel "YPEK" Merib
+<br />
+<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
 
-- 🌱 Estudante de Ciência da Computação | IMED
-- 📫 Email de contato: danielmeriblisboa@gmail.com
-<div align="center">
+# Hi, I'm Daniel "Ypek" Merib 👋
+
+- pronouns: **he**/**him**
+
+- tech hipster 😎
+
+- Cyber security enthusiast | IMED 📖
+
+- **opensourcer** 😊
+
+- Computer science student.🧑‍🎓
+
+<br />
+
+<p align="center">
+  <a href="https://open.spotify.com/user/22bk6yu73vlwpvpcovhv6io3a">
+    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
+  </a>
+</p>
+
+
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://www.twitch.tv/ypek_">
+    <img src="https://imgur.com/rrxPUh0.png" width="40" height="40" alt="Twitch.tv">
+  <a href="https://twitter.com/ypekgamer">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+    </a>
+</p>    
+<br />
+  <p align="center">
   <a href="https://github.com/ypek">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypek&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypek&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
- </div align = "center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- </div>
-                                                                                                                                        
+</p>
  <div align = "center"> 
 
   <a href="https://www.linkedin.com/in/daniel-merib-68a274133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ypek/ypek/blob/output/github-contribution-grid-snake.svg)
  
-</div>                                                                                                              
+</div>          
                                                            
