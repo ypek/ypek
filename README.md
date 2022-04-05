@@ -7,7 +7,7 @@
 
 - tech hipster 😎
 
-- Cyber security enthusiast | IMED 📖
+- Computer Science | IMED 📖
 
 - **opensourcer** 😊
 
