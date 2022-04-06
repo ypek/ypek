@@ -15,8 +15,8 @@
 
 </div>
 
-<<div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://open.spotify.com/user/22bk6yu73vlwpvpcovhv6io3a">
+ ⠀<div align="center" style="display: flex; justify-content: space-between;">
+   <a href="https://open.spotify.com/user/22bk6yu73vlwpvpcovhv6io3a">
     <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
   </a>
 
