@@ -9,9 +9,9 @@
 
 - Computer Science | IMED 📖
 
-- **opensourcer** 😊
+- **Opensourcer** 😊
 
-- Computer science student.🧑‍🎓
+- Information Security Enthusiast.🧑‍🎓
 
 </div>
 
@@ -40,5 +40,6 @@
  
   ![Snake animation](https://github.com/ypek/ypek/blob/output/github-contribution-grid-snake.svg)
  
-</div>          
+</div>
+  
                                                            
