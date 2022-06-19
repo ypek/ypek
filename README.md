@@ -1,5 +1,5 @@
 <br />
-<img src="https://imgur.com/8NcHYrQ" align="left" width="300" alt="ful1e5"/>
+<img src="https://imgur.com/a/PcGAh7l" align="left" width="300" alt="Ypek"/>
 
 # Hi, I'm Daniel "Ypek" Merib 👋
 
