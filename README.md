@@ -1,5 +1,5 @@
 <br />
-<img src="https://github.com/ypek/teste-/blob/main/qzgh1t3e58691.gif" align="left" width="300" alt="gato"/>
+<img src="https://github.com/ypek/teste-/blob/main/feature-open-source%402x.gif" align="left" width="300" alt="gato"/>
 
 # Hi, I'm Daniel "Ypek" Merib 👋
 
