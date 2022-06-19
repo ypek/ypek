@@ -1,5 +1,5 @@
 <br />
-<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg](https://imgur.com/8NcHYrQ)" align="left" width="300" alt="ful1e5"/>
+<img src="https://imgur.com/8NcHYrQ" align="left" width="300" alt="ful1e5"/>
 
 # Hi, I'm Daniel "Ypek" Merib 👋
 
