@@ -28,12 +28,7 @@
     <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
     </a>
 </p>    
-<br />
-  <p align="center">
-  <a href="https://github.com/ypek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypek&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypek&layout=compact&langs_count=7&theme=dark"/>
-</p>
+
 
  <div align = "center"> 
 
