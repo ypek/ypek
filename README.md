@@ -1,42 +1,48 @@
-<br />
-<img src="https://github.com/ypek/teste-/blob/main/feature-open-source%402x.gif" align="left" width="300" alt="gato"/>
+<a href="https://ypek.github.io/">
+  <img src="./assets/hero.svg" width="100%" alt="Daniel Merib — Engenheiro de QA Sênior na NEOS Tecnologia, Passo Fundo, RS. Lidero a automação de testes e defino padrões de qualidade, do manual ao CI/CD.">
+</a>
 
-# Hi, I'm Daniel "Ypek" Merib 👋
+<p align="center">
+  <a href="https://ypek.github.io/"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/danielmerib/"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+  <a href="mailto:danielmeriblisboa@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="E-mail"></a>
+  <a href="https://ypek.github.io/assets/curriculo-daniel-merib.pdf"><img src="./assets/btn-cv.svg" height="44" alt="Baixar CV"></a>
+</p>
 
-- pronouns: **he**/**him**
+<img src="./assets/marquee.svg" width="100%" alt="Cypress, Playwright, Selenium, Appium, WebDriver, SpecFlow, Cucumber, Postman, REST Assured, JUnit, TestNG, Jenkins, Azure DevOps, GitHub Actions, Docker, C#, Java, TypeScript, Python e Ruby">
 
-- tech hipster 😎
+## Sobre
 
-- Computer Science | IMED 📖
+Sou **Engenheiro de QA Sênior** na **NEOS Tecnologia**, onde lidero a equipe de automação de testes com Cypress. Crio e implemento estratégias de teste para que produtos complexos cheguem à produção com qualidade.
 
-- **Opensourcer** 😊
+Atuo com testes manuais e automatizados em aplicações web, APIs, back-end e mobile, sempre integrados a pipelines de CI/CD. Antes, passei pela Elevor, pela Spread Tecnologia e pela Compass UOL.
 
-- Information Security Enthusiast.🧑‍🎓
+<img src="./assets/runner.svg" width="100%" alt="Terminal rodando npx cypress run --spec perfil: 5 testes passando — sobre, stack, linguagens, pipeline e carreira.">
 
-</div>
+## Stack
 
- ⠀<div align="center" style="display: flex; justify-content: space-between;">
-   <a href="https://open.spotify.com/user/22bk6yu73vlwpvpcovhv6io3a">
-    <img src="https://github.com/ypek/teste-/blob/main/spotify%20btn.png" width="500px" height="auto" alt="Kaiz Playing Now">
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,selenium,postman,cs,java,js,ts,py,ruby&theme=dark" alt="Cypress, Selenium, Postman, C#, Java, JavaScript, TypeScript, Python e Ruby">
+  <br>
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,azure,docker,aws,git,gitlab&theme=dark" alt="Jenkins, GitHub Actions, Azure, Docker, AWS, Git e GitLab">
+</p>
 
+| Área | Ferramentas |
+| --- | --- |
+| Automação de testes | Cypress · Playwright · Selenium · WebDriver · Appium · SpecFlow · Cucumber · JUnit · TestNG · REST Assured · Postman · SoapUI |
+| Linguagens e dados | C# · Java · JavaScript · TypeScript · Python · Ruby · SQL · Oracle DB |
+| DevOps e CI/CD | Jenkins · Azure DevOps · GitHub Actions · GitLab CI · Git · Docker · AWS · Azure |
+| Práticas | Ágil/Scrum · Kanban · BDD · TDD · Page Object Model · Shift-Left Testing · Jira |
 
-<div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://www.twitch.tv/ypek_">
-    <img src="https://imgur.com/rrxPUh0.png" width="40" height="40" alt="Twitch.tv">
-  <a href="https://twitter.com/ypekgamer">
-    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
-    </a>
-</p>    
+## Experiência
 
+<img src="./assets/timeline.svg" width="100%" alt="NEOS Tecnologia — Engenheiro de QA Sênior (atual); Elevor — Analista de Qualidade de Software Sênior (jan 2025 – jul 2025); Spread Tecnologia — Analista de Qualidade de Software Pleno (dez 2023 – set 2024); Compass UOL — Desenvolvedor de Qualidade de Software (abr 2021 – abr 2023)">
 
- <div align = "center"> 
+## Contribuições
 
-  <a href="https://www.linkedin.com/in/daniel-merib-68a274133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ypek/ypek/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ypek/ypek/output/github-snake-dark.svg">
+  <img width="100%" alt="Cobrinha percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/ypek/ypek/output/github-snake.svg">
+</picture>
 
-## 🏆🏆🏆Git Trophys🏆🏆🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"><sub>Mais sobre mim em <a href="https://ypek.github.io/">ypek.github.io</a> · Passo Fundo, RS — Brasil</sub></p>
